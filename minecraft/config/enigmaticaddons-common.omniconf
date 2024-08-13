@@ -249,13 +249,13 @@
 
 "The Worthy One Options" {
     # If true, When the proportion of curse time is long enough, there will be some changes in creatures' AI. [default: true, synchronized: yes]
-    B:EnableCurseBoost=true
+    B:EnableCurseBoost=false
 
     # If true, when a creature spawned, it will immediately gain Curse Boost. [default: false, synchronized: yes]
     B:ImmediatelyCurseBoost=false
 
     # If true, when a creature dies, it will anger its surrounding peers. [default: true, synchronized: yes]
-    B:PartnerAnger=true
+    B:PartnerAnger=false
 }
 
 

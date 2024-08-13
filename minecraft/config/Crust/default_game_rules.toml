@@ -24,7 +24,7 @@ config_enabled = false
   player.freeze_damage = true
   player.keep_inventory = false
   player.natural_regeneration = true
-  player.players_sleeping_percentage = 100
+  player.players_sleeping_percentage = 10
   player.spawn_radius = 10
   player.spectators_generate_chunks = true
 
@@ -66,7 +66,7 @@ config_enabled = false
 # Default game rule settings for the 'updates' category.
 
   updates.do_daylight_cycle = true
-  updates.do_fire_tick = true
+  updates.do_fire_tick = false
   updates.do_vines_spread = true
   updates.do_weather_cycle = true
   updates.lava_source_conversion = false

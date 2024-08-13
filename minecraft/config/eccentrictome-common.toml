@@ -2,7 +2,7 @@
 #Common configuration settings
 [common]
 	#Allow all items to be added
-	allitems = false
+	allitems = true
 	#Disable overlay previewing tome conversion
 	disable_overlay = false
 	#Whitelisted items

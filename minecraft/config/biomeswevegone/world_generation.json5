@@ -55,5 +55,5 @@
 		"biomeswevegone:weeping_witch_forest": true,
 	},
 	// How much each BWG region weighs. This weight applies to all 3 BWG Regions
-	"region_weight": 8,
+	"region_weight": 6,
 }
