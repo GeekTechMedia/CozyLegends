@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "GeekTechMedia",
+      "uniqueId": "9ca1c700-d0a2-424a-9912-6e06ffd7217e"
+    },
+    "time": 1723414962038,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1m8Pcx5FAy"
+    }
+  }
+]
